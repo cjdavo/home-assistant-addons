@@ -3,16 +3,9 @@ url: https://github.com/cjdavo/home-assistant-addons
 maintainer: "Chris D. <chris@cantray.au>"
 
 addons:
-  - name: "BMS_BLE_HA_KICKASS"
-    slug: "KICKASS"
-    description: "Kickass"
-    url: "https://github.com/cjdavo/BMS_BLE-HA-KickArse"
-    version: "0.0.1"
-
-addons:
   - name: "BATMON-HA"
     slug: "BATMON-HA"
     description: "BATMON-HA"
     url: "https://github.com/cjdavo/batmon-ha"
-    version: "0.0.1"
+    version: "1.8.2"
 
