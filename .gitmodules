@@ -1,3 +1,6 @@
 [submodule "batmon-ha"]
 	path = batmon-ha
 	url = https://github.com/cjdavo/batmon-ha
+[submodule "bms-ble-ha-kickass"]
+	path = bms-ble-ha-kickass
+	url = https://github.com/cjdavo/BMS_BLE-HA-KickArse
